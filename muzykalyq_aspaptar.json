@@ -1,0 +1,865 @@
+[
+  {
+    "id": 1,
+    "atauy": "Домбыра",
+    "sanaty": "ішекті-шертпелі",
+    "turi": "ішекті-шертпелі",
+    "sipattamasy": "Домбыра қазақтың кең таралған ішекті аспабы болып саналады. Оны шертіп ойнайды, ағаштан жасайды, екі және үш ішекті нұсқалары кездеседі.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "qaishylyq",
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": 2,
+    "isek_sany_nuskalary": [
+      2,
+      3
+    ],
+    "materialy": [
+      "ағаш",
+      "металл",
+      "тері"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/stringed/dombra/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [
+      {
+        "source": "https://bilim-all.kz/article/8164",
+        "values": [
+          2,
+          3
+        ]
+      },
+      {
+        "source": "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+        "values": [
+          2
+        ]
+      },
+      {
+        "source": "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+        "values": [
+          2,
+          3
+        ]
+      }
+    ],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 2,
+    "atauy": "Қобыз",
+    "sanaty": "ішекті-сызбалы",
+    "turi": "ішекті-сызбалы",
+    "sipattamasy": "Қобыз қазақтың көне ысқышпен ойналатын ішекті аспабы болып саналады. Ағаш шанағы терімен қапталады, дәстүрлі ішектері жылқы қылынан дайындалады.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "qaishylyq",
+      "oryndaushy_deregi_zhoq",
+      "variant_names_merged"
+    ],
+    "isek_sany": 2,
+    "isek_sany_nuskalary": [
+      2,
+      3,
+      4
+    ],
+    "materialy": [
+      "ағаш",
+      "металл",
+      "тері",
+      "қыл"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/stringed/kobyz/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [
+      {
+        "source": "https://bilim-all.kz/article/8164",
+        "values": [
+          2,
+          3,
+          4
+        ]
+      },
+      {
+        "source": "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+        "values": [
+          2,
+          4
+        ]
+      },
+      {
+        "source": "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+        "values": [
+          2
+        ]
+      }
+    ],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 3,
+    "atauy": "Жетіген",
+    "sanaty": "ішекті-шертпелі",
+    "turi": "ішекті-шертпелі",
+    "sipattamasy": "Жетіген қазақтың көп ішекті шертпелі аспаптарына жатады. Ағаш негізге тартылған ішектерден нәзік үн шығады, дәстүрлі және жетілдірілген нұсқалары бар.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "qaishylyq",
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": 7,
+    "isek_sany_nuskalary": [
+      7,
+      13
+    ],
+    "materialy": [
+      "ағаш",
+      "тері"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/stringed/zhetygen/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [
+      {
+        "source": "https://bilim-all.kz/article/8164",
+        "values": [
+          7,
+          13
+        ]
+      },
+      {
+        "source": "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+        "values": [
+          7
+        ]
+      },
+      {
+        "source": "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+        "values": [
+          13
+        ]
+      }
+    ],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 4,
+    "atauy": "Шертер",
+    "sanaty": "ішекті-шертпелі",
+    "turi": "ішекті-шертпелі",
+    "sipattamasy": "Шертер саусақпен шертіп ойналатын көне ішекті аспап болып саналады. Шанағы терімен қапталады, дереккөздер екі немесе үш ішекті түрлерін сипаттайды.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "qaishylyq",
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": 3,
+    "isek_sany_nuskalary": [
+      2,
+      3
+    ],
+    "materialy": [
+      "тері",
+      "қыл"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/stringed/sherter/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [
+      {
+        "source": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "values": [
+          3
+        ]
+      },
+      {
+        "source": "https://bilim-all.kz/article/8164",
+        "values": [
+          2,
+          3
+        ]
+      },
+      {
+        "source": "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+        "values": [
+          3
+        ]
+      }
+    ],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 5,
+    "atauy": "Адырна",
+    "sanaty": "ішекті-шертпелі",
+    "turi": "ішекті-шертпелі",
+    "sipattamasy": "Адырна қазақтың көне музыкалық аспаптарының бірі болып саналады. Оның пішіні садаққа немесе жануарлардың тұлғасына ұқсатып жасалып, ішектерін шертіп ойнайды.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "isek_sany_belgisiz",
+      "materialy_belgisiz",
+      "oryndaushy_deregi_zhoq",
+      "source_classification_conflict"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/stringed/adyrna/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 6,
+    "atauy": "Дабыл",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Дабыл қазақтың қатты дыбыс шығаратын ұрмалы аспаптарына жатады. Ертеде ол қауіп туралы хабарлау және жорыққа адамдарды жинау үшін қолданылған.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "materialy_belgisiz",
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/percussion/dabyl/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 7,
+    "atauy": "Дауылпаз",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Дауылпаз ұрып ойналатын қазақтың көне музыкалық аспабы болып саналады. Ағаш шанағы терімен қапталып, ағаш тоқпақпен соққанда қатты дыбыс шығарады.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш",
+      "металл",
+      "тері"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/percussion/dauylpaz/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 8,
+    "atauy": "Шыңдауыл",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Шыңдауыл қазақтың ұрмалы аспаптарының бірі және дауылпаздың бір түрі саналады. Көлемі әртүрлі болып келеді, ертеректе аңшылар пайдаланған.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "materialy_belgisiz",
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/percussion/shyndauyl/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 9,
+    "atauy": "Даңғыра",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Даңғыра терімен қапталған шығыршықтан жасалатын ұрмалы аспап болып саналады. Ішіндегі темір сақиналар мен сылдырмалар негізгі дыбысқа қосымша үн береді.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "металл",
+      "тері"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/percussion/dangyra/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 10,
+    "atauy": "Кепшік",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Кепшік қазақтың ағаштан жасалатын көне ұрмалы аспаптарына жатады. Оның дөңгелек шеңбер тәрізді түрлерінде ойнау саусақтардың икемділігін қажет етеді.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/percussion/kepshik/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 11,
+    "atauy": "Шың",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Шың қазақтың көне ұрмалы және шулы музыкалық аспаптарына жатады. Дөңгелек металл бетін ағаш қаққышпен соққанда шыңылдаған дыбыс шығады.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш",
+      "металл"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/percussion/shyn/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 12,
+    "atauy": "Сазсырнай",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Сазсырнай қазақтың үрмелі музыкалық аспаптарының бірі болып саналады. Саздан жасалған қуыс денесі мен ойықтары арқылы үрлеген кезде дыбыс пайда болады.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "металл",
+      "саз"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/sazsyrnai/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 13,
+    "atauy": "Үскірік",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Үскірік қазақтың көне үрмелі музыкалық аспаптарының бірі болып саналады. Оның дыбысы ызғарлы желге ұқсайды, кейбір аймақтарда уілдек деп аталады.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "materialy_belgisiz",
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/uskirik/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 14,
+    "atauy": "Желбуаз",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Желбуаз қазақтың теріден жасалатын көне үрмелі аспаптарына жатады. Меске ұқсас денесінде ауаны ұстайтын тығын және әуен шығаратын сырнай түтікшелері болады.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "тері"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/zhelbuaz/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 15,
+    "atauy": "Керней",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Керней қазақтың үрмелі музыкалық аспаптарының бірі болып саналады. Ертеде ол әскери жорықтарда белгі беруге және салтанатты қарсы алу кезінде қолданылған.",
+    "derekkozder": [
+      "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/kernei/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 16,
+    "atauy": "Сыбызғы",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Сыбызғы қазақтың күй орындауға арналған дәстүрлі үрмелі аспабы болып саналады. Оның көне үлгілерін қурай мен қамыстан жасап, бақташылар кеңінен пайдаланған.",
+    "derekkozder": [
+      "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "металл",
+      "қамыс",
+      "қурай"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/sybyzgy/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 17,
+    "atauy": "Бұғышақ",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Бұғышақ мүйіз бен сүйектен жасалатын үрмелі аспаптар қатарына жатады. Оның дыбысы бұғы мен маралдың дауысына ұқсап, оларды жинауға пайдаланылған.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш",
+      "металл",
+      "мүйіз",
+      "сүйек",
+      "қамыс",
+      "қурай"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/bugyshak/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 18,
+    "atauy": "Қамыссырнай",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Қамыссырнай қамыстан жасалатын қазақтың үрмелі музыкалық аспабы болып саналады. Қамыс қуысының ішіндегі тілше үрлеген кезде тербеліп, дыбыс шығарады.",
+    "derekkozder": [
+      "https://sputnik.kz/20211128/qazatyn-ulttyq-aspaptary-18772990.html",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "металл",
+      "мүйіз",
+      "қамыс"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/kamys_syrnai/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 19,
+    "atauy": "Мүйізсырнай",
+    "sanaty": "үрмелі",
+    "turi": "үрмелі",
+    "sipattamasy": "Мүйізсырнай мүйізден жасалатын қазақтың көне үрмелі аспаптарының бірі болып саналады. Оның үш тесігі бар, ертеде жол сапарында хабар беруге қолданылған.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "мүйіз"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/wind/muiiz_syrnai/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 20,
+    "atauy": "Асатаяқ",
+    "sanaty": "сылдырлауық",
+    "turi": "сылдырлауық",
+    "sipattamasy": "Асатаяқ қазақтың сілкіп ойналатын көне музыкалық аспабы болып саналады. Ағаш таяқтың басына бекітілген темір сақиналар шайқаған кезде сылдырлаған дыбыс шығарады.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш",
+      "металл"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/noisemaker/asatayak/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 21,
+    "atauy": "Қоңырау",
+    "sanaty": "сылдырлауық",
+    "turi": "сылдырлауық",
+    "sipattamasy": "Қоңырау қазақтың сылдырмақты музыкалық аспаптарының бірі болып саналады. Металдан жасалған қуыс денесі мен тілшесі сыңғырлаған дыбыс шығарып, әуендерді сүйемелдеуге пайдаланылған.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "materialy_belgisiz",
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/noisemaker/konyrau/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 22,
+    "atauy": "Тұяқтас",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Тұяқтас қазақтың тұрмыс салтында ертеден қолданылған қарапайым музыкалық аспап болып саналады. Екі бөлігін соғып ойнайды, әндерге және дәстүрлі жоралғыларға сүйемел береді.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "металл"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/noisemaker/tuyaktas/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 23,
+    "atauy": "Сақпан",
+    "sanaty": "сылдырлауық",
+    "turi": "сылдырлауық",
+    "sipattamasy": "Сақпан қазақтың көшпелі тұрмысында пайда болған шулы аспаптарының бірі болып саналады. Алғашында бақташылар мал қайыруға пайдаланған, кейін музыкалық орындауларға қосылған.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "металл"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/noisemaker/sakpan/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 24,
+    "atauy": "Тоқылдақ",
+    "sanaty": "ұрмалы",
+    "turi": "ұрмалы",
+    "sipattamasy": "Тоқылдақ қатты ағаштан жасалатын қазақтың ұрмалы музыкалық аспабы болып саналады. Оның жаңғырып шығатын ерекше үні күйлер мен әндерді сүйемелдеуге пайдаланылған.",
+    "derekkozder": [
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш",
+      "металл"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/noisemaker/tokyldak/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  },
+  {
+    "id": 25,
+    "atauy": "Шаңқобыз",
+    "sanaty": "сылдырлауық",
+    "turi": "сылдырлауық",
+    "sipattamasy": "Шаңқобыз қазақтың тілшені тербелту арқылы дыбыс шығаратын көне музыкалық аспабы болып саналады. Орындаушы ауыз қуысын пайдаланып, тілшені қозғау арқылы әуен жасайды.",
+    "derekkozder": [
+      "https://bilim-all.kz/article/8164",
+      "https://www.ykhlasmuseum.kz/kazakh/instruments"
+    ],
+    "zhinalgan_kuni": "2026-10-07",
+    "sapa_belgileri": [
+      "oryndaushy_deregi_zhoq",
+      "schema_turi_shekteui"
+    ],
+    "isek_sany": null,
+    "isek_sany_nuskalary": [],
+    "materialy": [
+      "ағаш"
+    ],
+    "belgili_oryndaushylar": [],
+    "suretter": [
+      {
+        "url": "https://www.ykhlasmuseum.kz/instruments/kazakh/reed/shankobyz/1.png",
+        "derekkoz": "https://www.ykhlasmuseum.kz/kazakh/instruments",
+        "license": "Белгісіз; тек оқу мақсатында, қайта жариялауға рұқсат анықталмаған"
+      }
+    ],
+    "isek_sany_dalelderi": [],
+    "sipattama_adisi": "Қысқа авторлық мазмұндама; дереккөздер бойынша қолмен тексерілген"
+  }
+]
